@@ -41,7 +41,7 @@ f) Then the Semi-supervised GAN - SGAN is built
 
 g) In the summarise_performance() function the already built KNN model will be used as a criteria to add generated samples in the imbalanced dataset.
 
-e) Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
+h) Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
 
 
 
