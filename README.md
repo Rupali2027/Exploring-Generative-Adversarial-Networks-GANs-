@@ -15,7 +15,7 @@ a) Download the CUB_200_2011 dataset (bird dataset).
 b) Download the birds dataset (contains the word to vec embeddings of the text descriptions of every bird in the 200 categories)
 
 c) Then run Text2Image_StackGAN.py file in the jupyter notebook.
-   !It conatins both the stage1 and stage2 generator and discriminator functions 
+        It conatins both the stage1 and stage2 generator and discriminator functions 
    
    Make folders - weights, test, stage2_results which will store the stage1's weights obtained while training the generator, stage1's generator output images which are of low resolution and the stage2 generator image high resolution images respectively.
   
