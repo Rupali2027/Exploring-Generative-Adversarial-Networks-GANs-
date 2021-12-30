@@ -10,6 +10,9 @@ a) Download the CUB_200_2011 dataset (bird dataset).
 ####  Number of categories: 200
 ####  Number of images: 11,788
 ####  Eg - 
-  ![Black_Footed_Albatross_0001_796111](https://user-images.githubusercontent.com/66245321/147773834-e2a3c291-8249-4423-81d9-2ad4674774d5.jpg) ![Black_Footed_Albatross_0002_55](https://user-images.githubusercontent.com/66245321/147774142-6ff79994-6ac0-4211-88c5-0b4e2a1ae063.jpg)
+  ![image](https://user-images.githubusercontent.com/66245321/147774362-249d02ee-cf5c-465f-b3ed-3235174e8c87.png)
 
-a) Download the birds dataset (contains the word to vec 
+b) Download the birds dataset (contains the word to vec embeddings of the text descriptions of every bird in the 200 categories)
+c) Then run Text2Image_StackGAN.py file in the jupyter notebook
+It conatins both the stage1 and stage2 generator and discriminator functions 
+  
