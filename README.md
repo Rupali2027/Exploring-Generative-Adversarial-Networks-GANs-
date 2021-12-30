@@ -7,6 +7,7 @@
 
 ##### Setup - 
 a) Download the CUB_200_2011 dataset (bird dataset).
+   Link -> http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 ####  Number of categories: 200
 ####  Number of images: 11,788
 ####  Eg - 
