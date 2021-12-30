@@ -1,1 +1,1 @@
-# Exploring-Generative-Adversarial-Networks-GANs
+# Exploring-Generative-Adversarial-Networks
