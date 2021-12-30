@@ -40,6 +40,8 @@ g) In the summarise_performance() function the already built KNN model will be u
 
 e) Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
 
+
+
 ### 3. SMOTE (To compare the efficiency of SGAN wrt SMOTE)
 
 #### Aim - Training a SMOTE just to check if SGAN performs better than other synthetic image generating models
