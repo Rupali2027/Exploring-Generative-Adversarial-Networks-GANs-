@@ -1,5 +1,6 @@
 ## Exploring-Generative-Adversarial-Networks
 
+Video Explanation -> https://drive.google.com/file/d/10_NBL27Wi9q1fYBDzLRrAJ61SoCkvRLB/view?usp=sharing
 
 ### 1. StackGan
 
@@ -7,7 +8,7 @@
 
 ##### Setup - 
 a) Download the CUB_200_2011 dataset (bird dataset).
-   Link -> http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+   Link -> https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
 ####  Number of categories: 200
 ####  Number of images: 11,788
 ####  Eg - 
