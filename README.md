@@ -1,6 +1,7 @@
 ## Exploring-Generative-Adversarial-Networks
 
-Video Explanation -> https://drive.google.com/file/d/10_NBL27Wi9q1fYBDzLRrAJ61SoCkvRLB/view?usp=sharing
+### Video Explanation -> https://drive.google.com/file/d/10_NBL27Wi9q1fYBDzLRrAJ61SoCkvRLB/view?usp=sharing
+### Report -> Access the "Final_Report.pdf" from the code above
 
 ### 1. StackGan
 
