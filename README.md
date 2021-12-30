@@ -12,8 +12,8 @@ a) Download the CUB_200_2011 dataset (bird dataset).
    Link -> https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
 ####  Number of categories: 200
 ####  Number of images: 11,788
-####  Eg - 
-  ![image](https://user-images.githubusercontent.com/66245321/147774362-249d02ee-cf5c-465f-b3ed-3235174e8c87.png)
+
+![image](https://user-images.githubusercontent.com/68076769/147782107-f34c16d5-cf16-4d3d-b8c4-89e0064f8e99.png)
 
 b) Download the birds dataset (contains the word to vec embeddings of the text descriptions of every bird in the 200 categories)
 
