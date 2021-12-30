@@ -6,7 +6,7 @@
 ###Aim - Text to Image translation using StackGAN
 
 #### Setup - 
-####a) Download the CUB_200_2011 dataset (bird dataset).
+a) Download the CUB_200_2011 dataset (bird dataset).
 ####  Number of categories: 200
 ####  Number of images: 11,788
 ####  Eg - 
