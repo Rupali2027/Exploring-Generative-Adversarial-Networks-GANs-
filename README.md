@@ -19,3 +19,33 @@ c) Then run Text2Image_StackGAN.py file in the jupyter notebook.
    
    Make folders - weights, test, stage2_results which will store the stage1's weights obtained while training the generator, stage1's generator output images which are of low resolution and the stage2 generator image high resolution images respectively.
   
+
+### 2. Semi-supervised GAN (SGAN)
+
+#### Aim - To solve the problem of class imbalance by generating images using SGAN
+
+a) Make sure to have installed keras library
+
+b) Execute the code in the same order as given or else there might be some error- 'img GAN.ipynb'
+
+c) First, the Fashion-mnist dataset is loaded from keras library and the testing and training datasets are combined, and they are reshaped and converted into float32 datatype.
+
+d) Since Fashion-mnist is a perfectly balanced dataset with 7000 samples per class, it’ll be made imbalanced by taking only 869 samples for classes 0,4 and 8 each.
+
+e) After this KNN model is built on the processed dataset.
+
+f) Then the Semi-supervised GAN - SGAN is built
+
+g) In the summarise_performance() function the already built KNN model will be used as a criteria to add generated samples in the imbalanced dataset.
+
+e) Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
+
+### 3. SMOTE (To compare the efficiency of SGAN wrt SMOTE)
+
+#### Aim - Training a SMOTE just to check if SGAN performs better than other synthetic image generating models
+
+a) Similarly, the same pre-processing(combining testing and training datasets, reshaping the dataset to 2D dataset and converting the pixels into float32 datatype and bringing them into the range [-1,1] )is done for SMOTE- 'SMOTE.ipynb'
+
+b) The SMOTE model is built and the imbalanced dataset is made balanced
+
+c) Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
