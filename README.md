@@ -29,6 +29,8 @@ a) Make sure to have installed keras library
 b) Execute the code in the same order as given or else there might be some error- 'img GAN.ipynb'
 
 c) First, the Fashion-mnist dataset is loaded from keras library and the testing and training datasets are combined, and they are reshaped and converted into float32 datatype.
+![image](https://user-images.githubusercontent.com/66245321/147775926-93af2a1e-e700-4ece-8488-2577097860fd.png)
+
 
 d) Since Fashion-mnist is a perfectly balanced dataset with 7000 samples per class, it’ll be made imbalanced by taking only 869 samples for classes 0,4 and 8 each.
 
